@@ -37,4 +37,4 @@
 **L-pixela/L-pixela** is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 -->
 
-Let's connect, collaborate, and grow together as we **thrive to greatness**!
+Let's connect, collaborate, and grow together as we **🦅 thrive to greatness**!
