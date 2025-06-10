@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there, I'm L-pixela 👋
+
+**Thrive to Greatness**
+
+---
+
+🎓 **Student / Developer**  
+💻 Focusing on **Flutter**, **React**, and **Django**  
+🌍 Passionate about building impactful projects and learning new technologies
+
+---
+
+## 🚀 Featured Projects
+
+- **[race-tracker-app](#)**  
+  A project dedicated to tracking race events and statistics in real time.
+
+- **[web-hosting application](#)**  
+  My take on making web hosting accessible and simple for everyone.
+
+---
+
+## 🛠️ Top Skills
+
+- Flutter & Dart  
+- React & JavaScript  
+- Django & Python
+
+---
+
+## 🎵 More About Me
+
+- 📚 I love studying languages and exploring different cultures
+- 🎶 Music is my constant companion
+- 😴 Advocate for the power of good sleep
+
+---
 
 <!--
-**L-pixela/L-pixela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**L-pixela/L-pixela** is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 -->
+
+Let's connect, collaborate, and grow together as we **thrive to greatness**!
