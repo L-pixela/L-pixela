@@ -12,11 +12,8 @@
 
 ## 🚀 Featured Projects
 
-- **[race-tracker-app](#)**  
+- **[race-tracker-app](https://github.com/L-pixela/flutter-race-tracker-app)**  
   A project dedicated to tracking race events and statistics in real time.
-
-- **[web-hosting application](#)**  
-  My take on making web hosting accessible and simple for everyone.
 
 ---
 
