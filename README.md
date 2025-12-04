@@ -13,7 +13,9 @@
 ## 🚀 Featured Projects
 
 - **[Lomnov Backend](https://github.com/ChayLimm/Lomnov-Backend)**  
-A Project that help landlord manage properties and tenants.
+A Project that help landlord manage properties and tenants based of Laravel PHP.
+- **[Library Management System](https://github.com/Jahad69/libary-web)**
+A Library Management System that digitalize the borrowing process of library based of Laravel PHP.
 
 ---
 
