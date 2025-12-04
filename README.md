@@ -1,4 +1,4 @@
-# Hi there, I'm L-pixela 👋
+# Hi there, I'm Phon Sovatanak 👋
 
 **Thrive to Greatness**
 
@@ -12,8 +12,8 @@
 
 ## 🚀 Featured Projects
 
-- **[race-tracker-app](https://github.com/L-pixela/flutter-race-tracker-app)**  
-  A project dedicated to tracking race events and statistics in real time.
+- **[Lomnov Backend](https://github.com/ChayLimm/Lomnov-Backend)**  
+A Project that help landlord manage properties and tenants.
 
 ---
 
@@ -22,6 +22,7 @@
 - Flutter & Dart  
 - React & JavaScript  
 - Django & Python
+- Laravel & PHP
 
 ---
 
