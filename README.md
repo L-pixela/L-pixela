@@ -5,7 +5,7 @@
 ---
 
 🎓 **Student / Developer**  
-💻 Focusing on **Flutter**, **React**, and **Django**  
+💻 Focusing on **Backend Engineering** and **DevOps**
 🌍 Passionate about building impactful projects and learning new technologies
 
 ---
@@ -16,13 +16,14 @@
 A Project that help landlord manage properties and tenants based of Laravel PHP.
 - **[Library Management System](https://github.com/Jahad69/libary-web)**
 A Library Management System that digitalize the borrowing process of library based of Laravel PHP.
+- **[HR Management System Microservice](https://github.com/L-pixela/hr-management-system)**
+A Simple HR Management System built using microservice architecture using node.js/express.js with mongodb.
 
 ---
 
 ## 🛠️ Top Skills
 
-- Flutter & Dart  
-- React & JavaScript  
+- Flutter & Dart
 - Django & Python
 - Laravel & PHP
 
