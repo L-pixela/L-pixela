@@ -5,7 +5,7 @@
 ---
 
 🎓 **Student / Developer**  
-💻 Focusing on **Backend Engineering** and **DevOps**
+💻 Focusing on **Software Engineering** and **Full-Stack Development**
 🌍 Passionate about building impactful projects and learning new technologies
 
 ---
